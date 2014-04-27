@@ -1,0 +1,13 @@
+*.s#?
+*.b#?
+*.gpi
+*.gko
+*.gbl
+*.gbo
+*.gbs
+*.dri
+*.xln
+*.gtl
+*.gto
+*.gts
+*.zip
